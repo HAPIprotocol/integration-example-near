@@ -1,6 +1,6 @@
 # Hapi integration example
 
-We have a couple of examples of integrating HAPI protocol in a smart contract.
+We have a couple of examples of integrating [HAPI protocol](https://hapi-one.gitbook.io/) in a smart contract.
 
 But firstly let's understand how it works, and what it changes.
 
@@ -61,7 +61,7 @@ proxy.hapiprotocol.near
 
 ## What to do for using hapi? 
 
-1. Add hapi to dependencies of your project in Cargo.toml
+1. Add [hapi-near-connector](https://crates.io/crates/hapi-near-connector) to dependencies of your project in Cargo.toml
 ```
 [dependencies]
 ...
