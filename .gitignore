@@ -1,0 +1,5 @@
+/FT-master/target
+/target
+Cargo.lock
+.DS_Store
+/res
