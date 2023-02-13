@@ -20,7 +20,7 @@ In your smart contract You can set the level for all categories, and individual 
 
 ## What is categories and risk score? 
 
-Hapi protocol supports 18 categories
+HAPI protocol contains addresses of the following categories:
 
 | Category | Description |
 |----------|-------|
@@ -28,8 +28,7 @@ Hapi protocol supports 18 categories
 | WalletService | Wallet service - custodial or mixed wallets |
 | MerchantService | Merchant service |
 | MiningPool | Mining pool |
-| LowRiskExchange | Low-risk exchange - Exchange with high KYC standards |
-| MediumRiskExchange | Medium risk exchange |
+| Exchange | Low-risk exchange - Exchange with high KYC standards |
 | DeFi | DeFi application |
 | OTCBroker | OTC Broker |
 | ATM | Cryptocurrency ATM |
@@ -42,6 +41,7 @@ Hapi protocol supports 18 categories
 | Theft | Theft - stolen funds |
 | Counterfeit | Counterfeit - fake assets |
 | TerroristFinancing | Terrorist financing |
+| Sanctions | Addresses of the sanctioned individuals and organizations |
 | ChildAbuse | Child abuse and porn materials |
 
 
